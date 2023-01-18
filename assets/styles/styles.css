@@ -3838,7 +3838,50 @@ section.babylon9jk123sh3 {
 /* =============================  #features #waldina end =========================== */
 
 
-
+/* #sammy(s62ca136cc01dd27b) #css starts  */
+.sliders62ca136cc01dd27b .carousel {
+    position: relative
+  }
+  .sliders62ca136cc01dd27b .carousel-item img {
+    object-fit: cover
+  }
+  .sliders62ca136cc01dd27b #carousel-thumbs {
+    background: rgba(255,255,255,.3);
+    bottom: 0;
+    left: 0;
+    padding: 0 50px;
+    right: 0
+  }
+  .sliders62ca136cc01dd27b #carousel-thumbs img {
+    border: 5px solid transparent;
+    cursor: pointer
+  }
+  .sliders62ca136cc01dd27b #carousel-thumbs img:hover {
+    border-color: rgba(255,255,255,.3)
+  }
+  .sliders62ca136cc01dd27b #carousel-thumbs .selected img {
+    border-color: #fff
+  }
+  .sliders62ca136cc01dd27b .carousel-control-prev,
+  .sliders62ca136cc01dd27b .carousel-control-next {
+    width: 50px
+  }
+  @media all and (max-width: 767px) {
+      .sliders62ca136cc01dd27b .carousel-container #carousel-thumbs img {
+      border-width: 3px
+    }
+  }
+  @media all and (min-width: 576px) {
+      .sliders62ca136cc01dd27b .carousel-container #carousel-thumbs {
+      position: absolute
+    }
+  }
+  @media all and (max-width: 576px) {
+      .sliders62ca136cc01dd27b .carousel-container #carousel-thumbs {
+      background: #ccccce
+    }
+  }
+  /* #sammy(s62ca136cc01dd27b) #css ends  */
 
 
 
