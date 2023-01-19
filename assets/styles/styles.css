@@ -3836,7 +3836,163 @@ section.babylon9jk123sh3 {
     color: #f66
 }
 /* =============================  #features #waldina end =========================== */
+    /* #fuchka(cgacfe25476985f8) #css starts */
+    .footercgacfe25476985f8 {
+        position: relative;
+        font-weight: 400;
+        font-size: 15px
+    }
 
+    .footercgacfe25476985f8  ul {
+        padding: 0;
+        margin: 0
+    }
+
+    .footercgacfe25476985f8 li {
+        list-style: none
+    }
+
+   .footercgacfe25476985f8 a:focus,
+   .footercgacfe25476985f8 a:hover {
+        text-decoration: none;
+        -webkit-transition: .3s ease;
+        -o-transition: .3s ease;
+        transition: .3s ease
+    }
+
+    .footercgacfe25476985f8  a:focus {
+        outline: 0
+    }
+
+    .footercgacfe25476985f8 img {
+        max-width: 100%
+    }
+
+    .footercgacfe25476985f8 p {
+        font-size: 16px;
+        line-height: 30px;
+        color: #898b96;
+        font-weight: 300
+    }
+
+    .footercgacfe25476985f8 h4 {
+        font-family: Rubik, sans-serif;
+        margin: 0;
+        font-weight: 400;
+        padding: 0;
+        color: #363940
+    }
+
+    .footercgacfe25476985f8 a {
+        color: #5867dd
+    }
+
+    .footercgacfe25476985f8  .no-padding {
+        padding: 0
+    }
+
+
+    .footercgacfe25476985f8 .footer-big {
+        padding: 105px 0 65px 0
+    }
+
+    .footercgacfe25476985f8  .footer-big .footer-widget {
+        margin-bottom: 40px
+    }
+
+    .footercgacfe25476985f8 .footer--light {
+        background: #e7e8ed
+    }
+
+    .footercgacfe25476985f8 .footer-big .footer-menu ul li a,
+    .footercgacfe25476985f8 .footer-big p,
+    .footercgacfe25476985f8 .footer-big ul li {
+        color: #898b96
+    }
+
+    .footercgacfe25476985f8 .footer-menu {
+        padding-left: 48px
+    }
+
+    .footercgacfe25476985f8 .footer-menu ul li a {
+        font-size: 15px;
+        line-height: 32px;
+        -webkit-transition: .3s;
+        -o-transition: .3s;
+        transition: .3s
+    }
+
+    .footercgacfe25476985f8 .footer-menu ul li a:hover {
+        color: #5867dd
+    }
+
+    .footercgacfe25476985f8  .footer-menu--1 {
+        width: 100%
+    }
+
+    .footercgacfe25476985f8 .footer-widget-title {
+        line-height: 42px;
+        margin-bottom: 10px;
+        font-size: 18px
+    }
+
+    .footercgacfe25476985f8 .mini-footer {
+        background: #192027;
+        text-align: center;
+        padding: 32px 0
+    }
+
+    .footercgacfe25476985f8 .mini-footer p {
+        margin: 0;
+        line-height: 26px;
+        font-size: 15px;
+        color: #999
+    }
+
+    .footercgacfe25476985f8 .mini-footer p a {
+        color: #5867dd
+    }
+
+    .footercgacfe25476985f8 .mini-footer p a:hover {
+        color: #34bfa3
+    }
+
+    .footercgacfe25476985f8 .widget-about img {
+        display: block;
+        margin-bottom: 30px
+    }
+
+    .footercgacfe25476985f8  .widget-about p {
+        font-weight: 400
+    }
+
+    .footercgacfe25476985f8 .widget-about .contact-details {
+        margin: 30px 0 0 0
+    }
+
+    .footercgacfe25476985f8 .widget-about .contact-details li {
+        margin-bottom: 10px
+    }
+
+    .footercgacfe25476985f8 .widget-about .contact-details li:last-child {
+        margin-bottom: 0
+    }
+
+    .footercgacfe25476985f8 .widget-about .contact-details li span {
+        padding-right: 12px
+    }
+
+    .footercgacfe25476985f8 .widget-about .contact-details li a {
+        color: #5867dd
+    }
+
+    @media (max-width:991px) {
+        .footercgacfe25476985f8  .footer-menu {
+            padding-left: 0
+        }
+    }
+
+    /* #fuchka(cgacfe25476985f8) #css ends */
 
 /* #shuriken(s02637a83835d6533) #css starts  */
 .sliders02637a83835d6533 .navigation-box {
